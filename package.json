@@ -1,17 +1,17 @@
 {
-  "name": "clamps-bot",
+  "name": "autoinsult-bot",
   "version": "1.0.0",
-  "description": "clamps is the best bot to build a stealer discord.",
+  "description": "autoinsult bot discord.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "clamps",
+    "insult",
     "discord",
-    "bot",
-    "stealer",
-    "private",
+    "auto",
+    "autoinsult",
+    "narcissique",
     "atzne"
   ],
   "author": "atzne",
